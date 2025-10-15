@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "senderId": 3,
+    "receiverId": 4,
+    "text": "Hi",
+    "timestamp": 1760379843289,
+    "read": false
+  },
+  {
+    "id": 2,
+    "senderId": 3,
+    "receiverId": 4,
+    "text": "Imagine getting suspended",
+    "timestamp": 1760380686363,
+    "read": false
+  },
+  {
+    "id": 3,
+    "senderId": 3,
+    "receiverId": 4,
+    "text": "Hi",
+    "timestamp": 1760381162900,
+    "read": false
+  },
+  {
+    "id": 4,
+    "senderId": 3,
+    "receiverId": 4,
+    "text": "Animations?",
+    "timestamp": 1760382508021,
+    "read": false
+  },
+  {
+    "id": 5,
+    "senderId": 6,
+    "receiverId": 3,
+    "text": "Hi",
+    "timestamp": 1760425381391,
+    "read": false
+  },
+  {
+    "id": 6,
+    "senderId": 5,
+    "receiverId": 6,
+    "text": "Hi",
+    "timestamp": 1760425431545,
+    "read": false
+  },
+  {
+    "id": 7,
+    "senderId": 6,
+    "receiverId": 5,
+    "text": "Bye",
+    "timestamp": 1760425466255,
+    "read": false
+  },
+  {
+    "id": 8,
+    "senderId": 6,
+    "receiverId": 3,
+    "text": "Alexpeia6767@gmail.com",
+    "timestamp": 1760474760255,
+    "read": false
+  },
+  {
+    "id": 9,
+    "senderId": 3,
+    "receiverId": 6,
+    "text": "ok",
+    "timestamp": 1760559144849,
+    "read": false
+  }
+]
